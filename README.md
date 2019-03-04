@@ -1,4 +1,4 @@
-# Click the “Instances” section in AWS console under the EC2 dashboard.EC2 Instance Backup Step-by-Step.
+# EC2 Instance Backup Step-by-Step.
 	
 There are two ways to implement backup of your EC2 instances on AWS:
   - If your instance is EBS backed, you can create the snapshots of the EBS volume.
