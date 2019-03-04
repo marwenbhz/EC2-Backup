@@ -1,1 +1,2 @@
-# EC2-Backup
+# How to Automate EC2 Instance Backup Step-by-Step.
+	
